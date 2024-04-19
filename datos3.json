@@ -1,3 +1,18 @@
 [
-
+  {
+    "id": 0,
+    "id2": "sacos 0_01",
+    "titulo": "Busos de algodon monaco",
+    "categoria": "Audífonos",
+    "tallas": "xl",
+    "cantidad": 3,
+    "colores": [
+      "blue",
+      "green",
+      "red",
+      "black"
+    ],
+    "colors": "blue",
+    "disenos": "one"
+  }
 ]
